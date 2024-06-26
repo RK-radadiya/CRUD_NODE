@@ -1,0 +1,9 @@
+
+
+const create_movie_s = (data) =>{
+    return movie_controller.creat(data)
+}
+
+module.exports = {
+    create_movie_s
+}
